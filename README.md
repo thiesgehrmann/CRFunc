@@ -3,6 +3,7 @@ CRFunc
 
 Predict protein functions from multiple sources of data with Conditional Random Fields
 
+![Overview of model](/CRFunc.png)
 
  This is the work developed in:
  
